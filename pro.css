@@ -1,0 +1,58 @@
+.box-1{
+    padding-top: 100px;
+    
+    color: white;
+}
+.box{
+    background-color: #4C4C4C;
+    height: 500px;
+}
+.butt-1{
+    width: 150px;
+    height: 60px;
+    color: black;
+    border-radius: 20px;
+}
+.butt-1:hover{
+    background-color: black;
+    color: white;
+}
+.box-2{
+    height: 450px;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+}
+.butt-2{
+    width: 150px;
+    height: 60px;
+    color: black;
+    border-width: 2px;
+    border-bottom: black;
+    border-radius: 20px;
+
+}
+.butt-3{
+    width: 150px;
+    height: 60px;
+    color: white;
+    border-width: 2px;
+    border-bottom: black;
+    border-radius: 20px;
+    background-color: black;
+}
+.butt-3:hover{
+    background-color: white;
+    color: black;
+}
+.box-6{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+.box-8{
+    width: 10px;
+    height: 12px;
+    background-color: red;
+}
